@@ -1,5 +1,5 @@
-title = "Awesome Hugo blog"
-baseURL = 'https://hba.sid.one/'
+title = "EmptyCup"
+baseURL = 'https://emptycuphq.github.io/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -7,7 +7,7 @@ languageCode = 'en-us'
 theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
-defaultContentLanguage = "en-gb"
+defaultContentLanguage = "en-us"
 
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next line
@@ -52,12 +52,12 @@ disqusShortname = ''
     weight = 30
 
 [params]
-  sitename = "Awesome hugo blog"
-  defaultColor = "dark" # set color mode: dark, light, auto
+  sitename = "EmptyCup"
+  defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Meditations on #zen #creativity #emptycup"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   goToTop = true # set to false to disable 'go to top' button
@@ -68,11 +68,11 @@ disqusShortname = ''
   # The file `custom.js` is loaded on each page (before body tag ends).
 
 [params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "yinyang.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+  intro = "EmptyCup"
+  name = "Master Who"
+  description = "Meditations on Zen & Creativity"
 
 # Allow to override webmanifest options
 [params.webmanifest]
@@ -89,11 +89,15 @@ disqusShortname = ''
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/emptycuphq"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "Medium"
+url = "https://emptycuphq.medium.com"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://in.linkedin.com/company/emptycup"
 
 [[params.socialIcons]]
 name = "Rss"
