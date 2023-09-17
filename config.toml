@@ -1,4 +1,4 @@
-title = "EmptyCup"
+title = "EmptyCup Monastery"
 baseURL = 'https://emptycuphq.github.io/'
 
 # This is what goes in <html lang="">
@@ -36,30 +36,36 @@ disqusShortname = ''
   [[menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
-  [[menu.main]]
-    pageRef="posts"
-    name = 'Posts'
-    url = '/posts/'
-    weight = 20
   [[menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 10
+  [[menu.main]]
+    pageRef="academy"
+    name = "Academy"
+    url = '/academy/'
+    weight = 20
+  [[menu.main]]
+    pageRef="product"
+    name = "Product"
+    url = '/product/'
+    weight = 20
+  [[menu.main]]
+    pageRef="zen"
+    name = "Zen"
+    url = '/zen/'
+    weight = 20
 
 [params]
-  sitename = "EmptyCup"
-  defaultColor = "auto" # set color mode: dark, light, auto
+  sitename = "EmptyCup Monastery"
+  defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
   description = "Meditations on #zen #creativity #emptycup"
-  mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  mainSections = ['zen', 'about', 'academy', 'ideas']
+  toc = false # set to false to disable table of contents 'globally'
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
   # Will try to load 'assets/js/custom.js' and 'assets/js/custom-2.js'.
@@ -72,7 +78,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "EmptyCup"
   name = "Master Who"
-  description = "Meditations on Zen & Creativity"
+  description = "Creative meditation"
 
 # Allow to override webmanifest options
 [params.webmanifest]
