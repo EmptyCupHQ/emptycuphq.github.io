@@ -9,7 +9,7 @@ When we started back in 2015, it was obvious to us that house hunting should sta
 
 For the first 10 months, we couldn't get a single customer. We just kept building what we envisioned the product to be. Around the 11th month, the product reached a level of maturity and customers started buying. We were happy to finally find users for our product. By the end of the 1st year, we started getting good traction. We onboarded over 100 builders.
 
-Then, we started thinking: "Ok, we thought this product should exist. It does now and people are using it. What now?".
+Then, we started thinking: "Ok, we thought this product should exist. It does now and people are using it. What next?".
 
 At this point, it occurred to us that we were businessmen now and we ought to think like businessmen. So, we decided to come up with a strategy for how we can build a $1B business. To build that big a business, we figured, we had to target a large market. And people also told us we need to address a burning need. Right, that makes sense.
 

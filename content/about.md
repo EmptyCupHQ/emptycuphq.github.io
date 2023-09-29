@@ -18,7 +18,7 @@ EmptyCup's core purpose: [Mindful housing](/about/mindful-housing/)<br>
 
 1. [EmptyCup Studio:](/about/emptycup-studio) SaaS for 3D interior design<br>
 2. [EmptyCup Workshop:](/about/emptycup-bazaar) SaaS for interior project planning<br>
-3. [EmptyCup Enso:](/about/emptycup-enso) 3D SDK for software developers<br>
+3. [EmptyCup Enso:](/about/emptycup-enso) Platform SDK for software developers<br>
 4. [EmptyCup Dream:](/about/emptycup-dream) Collaborative design in VR
 
 
