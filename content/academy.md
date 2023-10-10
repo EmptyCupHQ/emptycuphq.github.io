@@ -5,13 +5,14 @@ title: EmptyCup Academy
 
 EmptyCup Academy is an online program for students to get involved with real world projects. The program emphasises optimising for learning.
 
+
 [Learn more about the programme here.](/academy/programme)<br>
 
 
 ### Optimising for learning:
 
 1. [Learning by searching](/academy/learning-by-searching/)<br>
-2. [Learning by doing](/academy/learning-by-doing/)<br>
+2. [Learning by building](/academy/learning-by-building/)<br>
 3. [Learning by teaching](/academy/learning-by-teaching/)<br>
 
 <br>
