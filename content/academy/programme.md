@@ -34,7 +34,7 @@ Some notes:
 - There is no time limit. But, whoever completes this phase will immediately proceed to the next phase.
 - [Developer notes](https://emptycuphq.github.io/notes/) was setup just for you to learn by contributing. All the content is free and open sourced for everyone. Hopefully, the next person after you can skip your struggle and learn from your contribution.
 
-[**Register for the program**](https://forms.gle/iAboALg4MWhXUoqE7) and [get started](https://github.com/emptycuphq/notes) now.
+[Register for the program](https://forms.gle/BU6boiHGwBkKNj6g6) and [get started](https://github.com/emptycuphq/notes) now.
 
 ### Phase 2: Contributing to open source
 
@@ -61,6 +61,8 @@ More details will be provided on completing Phase 1.
 
 Students successfully completing Phase 3 are eligible for semester long full time paid internship. Unlike typical internships where more than half the internship period is wasted in just getting up to speed. Internships from this program will be high intensity as you will already have a deep context on the work and a strong rapport with your mentor. 
 
+[Here's a link to the JD for the internship position.](https://emptycup.notion.site/Full-Stack-Internship-EmptyCup-a8019df1520c4f2a913f517ab0ba2856)
+
 A full time position will be offered for every internship. The salary package may be expected to be the best in the industry.
 
 # Expectations:
@@ -70,19 +72,19 @@ A full time position will be offered for every internship. The salary package ma
 - Don’t expect the tasks to be straightforward. Don’t expect clear steps to solve the issue every time. If you are not able to solve something, that means you don’t know enough yet. So, focus on learning and understanding. Keep trying, don’t give up. There are no deadlines. You fail only when you give up.
 - Be respectful of mentorship time. As full time developers ourselves, time is the most costly resource for us. Learn as much as you can through googling. Ask your friends. Ask for help online. But, do ask us for help if you still can’t figure it out. There is no point to the program if you get stuck and give up.
 - All communication will be asynchronous. That means everyone will get back to you on their own schedule, not yours. This doesn’t mean you are less important. It means that they have to manage their own time efficiently. Expect email responses to take 1-2 days at least. Have back up plans and communicate early if you must.
-- Expect each phase to last one semester. You need that time to learn something thoroughly. Doing things fast may seem glamorous, but may not be sustainable in the long run. Be consistent and pay attention to the details. That is how you build stamina.
 
 
 # Getting started
 
-1. **[Register by submitting the form](https://forms.gle/Wvd6ST5XAoJXXJAG8)**. You will be added to the program mailing list in a few days.
+1. **[Register by submitting the form](https://forms.gle/BU6boiHGwBkKNj6g6)**. 
+2. Join the [google group](https://groups.google.com/a/emptycup.in/g/academy23). All updates and announcements will be sent as email on the google group.
 2. Explore the [Developer Notes](https://emptycuphq.github.io/notes/). Select a note that you want to contribute.
 3. Follow the process outlined in the [GitHub README.md](https://github.com/emptycuphq/notes) to submit a pull request.
 
+
 # Getting help
 
-- If you have questions about the program, you can send an email to *ecsp22@emptycup.in* which is the google group address for this year’s program.
+- If you have questions about the program, you can [join the google group](https://groups.google.com/a/emptycup.in/g/academy23) and send an email to *academy23@emptycup.in*.
 - Each phase of the program is associated with a different git repository. If you have a technical question or an issue, you can raise a GitHub issue on the repository associated with the project. The repository associated with Phase 1 is [Developer Notes](https://github.com/emptycuphq/notes).
 - Ask your friends and help your friends. You are also encouraged to answer queries & help fellow students on the mailing list or GitHub issues. Contribution doesn’t always have to be code.
-- In case, you want to discuss something in private, please email *ecsp22.admin@emptycup.in* . But please reserve this for something absolutely essential.
-
+- In case, you want to discuss something in private, please email *mentors@emptycup.in*.

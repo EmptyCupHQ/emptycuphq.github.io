@@ -52,11 +52,6 @@ disqusShortname = ''
     url = '/product/'
     weight = 20
   [[menu.main]]
-    pageRef="ideas"
-    name = "Ideas"
-    url = '/ideas/'
-    weight = 20
-  [[menu.main]]
     pageRef="zen"
     name = "Zen"
     url = '/zen/'
