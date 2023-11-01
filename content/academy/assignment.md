@@ -3,11 +3,11 @@ layout: default
 title: EmptyCup Assignment
 ---
 
-_This assignment is for students applying for the internship starting Jan 2024._
+_This assignment is for students applying for the [internship](/academy/internship) starting Jan 2024._
 
 
-The assignment is a single mobile web page. This assignment is the only test in the selection process
-for the EmptyCup Internship starting January 2024. 
+The assignment is a single mobile web page. It is the only test in the selection process
+for the [EmptyCup Internship](/academy/internship/) starting January 2024. 
 
 
 
@@ -21,9 +21,11 @@ The page lists all the designers who are active on EmptyCup's platform. Any home
 can collaborate with can come to this listings page where they can see all our users who are available for business.
 
 
-### 1. Styling
+### 1. Web page + Styling
 
-Styling matters a lot. EmptyCup's users are designers and have a very sensitive taste. They will ditch the product and worse, lose respect for EmptyCup & it's products. So, the first requirement is that the page you create should look exactly like the figma design. You can use the same fonts and icons as in the Figma file by downloading the icons from Figma itself. 
+Your objective is to create a single mobile web page that looks exactly like the given design.
+
+Styling matters a lot. EmptyCup's users are designers and have a very sensitive taste. They will ditch the product and worse, lose respect for EmptyCup & it's products, if the styling is off. So, the first requirement is that the page you create should look exactly like the figma design. You can use the same fonts and icons as in the Figma file by downloading the icons from Figma itself. 
 
 This demonstrates your ability to work with HTML & CSS code. When it comes to writing software for production environment, HTML CSS fluency is paramount. You probably used websites before where some buttons are not visible or the content layout is screwed up. That was because the person who wrote the HTML didn't get it right. So, this is the most basic test.
 

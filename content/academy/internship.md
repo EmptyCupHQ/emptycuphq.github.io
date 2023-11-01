@@ -78,20 +78,19 @@ _[Learn more about The EmptyCup Way →](/about/emptycup-way)_
 
 ### Application process
 
-There will be no interviews or coding tests. [EmptyCup believes interviews are a bad test for good talent](/academy/no-interviews). 
+There will be no interviews or coding tests. [EmptyCup believes interviews are a bad test for good talent](https://emptycuphq.medium.com/guerilla-hiring-62a912c57eb6). 
 
-To apply for the internship, you have to first register using this google form. Then, you have to complete a take home assignment. You can join EmptyCup's slack community for any questions and support for the assignment. Though the mentors cannot help you directly with code, they can guide you on the development process with resources and pointer. 
+To apply for the internship, you have to first register using [this google form](https://forms.gle/a2NjvXYAN1YQRugm9). Then, you have to complete [a take home assignment](/academy/assignment). You can join [EmptyCup's slack community](https://join.slack.com/t/emptycupacademy/shared_invite/zt-256nm43bn-BNQb_UeEn3mI2QrnjMJ9GA) for any questions and support for the assignment. Though the mentors cannot help you directly with code, they can guide you on the development process with resources and pointers. 
 
 The deadline for the assignment submission is **December 1st @ 6.00am**. After the assignment deadline, there will be a code review with a mentor where the mentor will walk through your code with you on call. Based on the mentor's feedback, you will receive an offer from EmptyCup for the internship position.
 
 Everyone who completes the assignment, regardless of selection, will receive a Certificate of Accomplishment from EmptyCup and can use the reference in their resume.
 
 [Internship registration form →](https://forms.gle/a2NjvXYAN1YQRugm9)<br>
-[Here's the link to the assignment →](/academy/assignment23)<br>
+[Here's the link to the assignment →](/academy/assignment)<br>
 [EmptyCup Academy Slack community invite →](https://join.slack.com/t/emptycupacademy/shared_invite/zt-256nm43bn-BNQb_UeEn3mI2QrnjMJ9GA)<br>
-
 
 
 ### Help
 
-For any questions or queries, please join the slack community and DM @Ab.
+For any questions or queries, please join the slack community and DM @Ab or send an email to _mentors@emptycup.in_.
