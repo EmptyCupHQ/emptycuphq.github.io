@@ -16,3 +16,8 @@ The program has multiple tracks:
 4. Open source projects
 
 
+### For students
+
+Some insights on what to look for in your first job:
+
+[Optimise for learning](/academy/optimise-for-learning)
