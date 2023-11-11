@@ -76,6 +76,14 @@ To submit the assignment, you need to submit 2 files:
 
 You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the subject __EmptyCup Assignment 2023 - Your Name__
 
+_NOTE_: 
+1. The zip file with your code has to be named in the format "Your Name.zip"
+2. The demo file with your screen recording has to be named in the format "Your Name.mp4" (or whatever file extension)
+
+_Please do not put the recording file inside the zip._
+
+_If your file size is large, gmail may not allow you attach the file directly. In that case please upload the file onto google drive and share the link. Gmail may offer to do this automatically._
+
 You only need to finish the first stage (web page with styling) to be considered for the internship position. But, the more you are able to accomplish, the better your chances will be. Besides, these are very useful skills that can help you level up your profile. So, you should see this not just as a test, but a learning opportunity. Our mentors will be available through out to help and guide you.
 
 Unlike a typical interview or test, you are encouraged to Google as much as you can and learn while doing the assignment. You'll remember whatever you learn to finish this assignment much better than anything you learnt from your textbooks for your exams. 
