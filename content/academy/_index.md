@@ -20,4 +20,5 @@ The program has multiple tracks:
 
 Some insights on what to look for in your first job:
 
+[Pitfalls of placements](/academy/pitfalls-of-placements)
 [Optimise for learning](/academy/optimise-for-learning)

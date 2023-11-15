@@ -87,6 +87,9 @@ _If your file size is large, gmail may not allow you attach the file directly. I
 
 _Sometimes, college email addresses get blocked when sending large files outside the organisation. Hence, it is recommended that you submit with your gmail account._
 
+_If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
+
+
 You only need to finish the first stage (web page with styling) to be considered for the internship position. But, the more you are able to accomplish, the better your chances will be. Besides, these are very useful skills that can help you level up your profile. So, you should see this not just as a test, but a learning opportunity. Our mentors will be available through out to help and guide you.
 
 Unlike a typical interview or test, you are encouraged to Google as much as you can and learn while doing the assignment. You'll remember whatever you learn to finish this assignment much better than anything you learnt from your textbooks for your exams. 
