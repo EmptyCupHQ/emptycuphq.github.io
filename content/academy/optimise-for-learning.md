@@ -10,8 +10,8 @@ evaluating jobs based on the misguided metrics like CTC which are usually fluffe
 HR professionals.
 
 As a student, consider that you will earn your entire first year's salary in
-in just one month by the time you're 35. If you're on a high growth path, you'll
-earn the same in just a week. Compared to how you grow and what position you'll be in 
+just one month by the time you're 35. If you're on a high growth path, you'll
+earn the same in just a week. Compared to how you grow and what position you'll be
 in a decade where you start is insignificant. But, how you start your career has a huge impact.
 
 
