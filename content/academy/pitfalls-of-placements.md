@@ -3,7 +3,6 @@ layout: default
 title: Pitfalls of placements
 ---
 
-### Pitfalls of placements
 
 1. The first pitfall is that most students don't think they can choose. Students think that once they're placed, they can't apply for other jobs. College placements have "one student one job" policies that prohibit students with job offers to apply for new jobs. If you want to do what's right for you, you should only use college placements as a backup and apply offline for the jobs that matter the most to you. It should be noted that there's nothing wrong with the placement efforts that colleges make. Infact, most colleges go out of their way to ensure their students get good placements. From the college's perspective, they have to do right by all their students. You should leverage the placement opportunity to secure a job and then make your own efforts to explore better opportunities on your own. Most colleges require companies to offer waitlists, so that if you find a better job off-campus, someone else in your college will get your offer. This way, you get a better role and you also ease the load on your college's placement team.
 

@@ -19,7 +19,7 @@ in a decade where you start is insignificant. But, how you start your career has
 <center>Learning vs Doing</center><br>
 
 
-When you're in college, you are learning all the time. Learning without doing is not real learning. 
+When you're in college, you are learning all the time. 
 Learning anything is not easy. It takes a lot of mental effort. If you don't apply whatever you're learning,
 after a while you'll ask yourself what the purpose of all that mental effort is and you won't 
 have a good answer. Then naturally, you'll lose your hunger to learn. That is very dangerous. That is why
