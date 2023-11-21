@@ -50,7 +50,7 @@ If you haven't worked on any REST API project before, the best way to start woul
 
 __If you can implement this, it shows that you have full stack capabilities. A full stack developer is way more efficient because there are no communication overheads between frontend and backend work. At EmptyCup, all your work will have both frontend and backend components.__
 
-_If you don't have experience with backend development, you can ask your mentor for useful references to learn how to build a REST API backend in python._
+_If you don't have experience with backend development, you can start with using Flask on Python. There are good Flask Tutorials on YouTube to get you started. There are some good tutorials for API development by Miguel Grinberg for REST API development on Flask._
 
 ### 4. Deployment
 
@@ -146,6 +146,6 @@ __If you have any questions or queries, please ask on the Slack channel__.
 
 ### Certification
 
-Anyone who successfully completes the assignment ~~(UPDATE: 21-11-23, even just the first stage)~~ will receive a "Certificate of Accomplishment" from EmptyCup regardless of selection for internship. Your github id will be added as a contributor to EmptyCup's open source project repository. You may also request your mentor for a referral.
+Anyone who successfully completes the assignment ~~UPDATE: 21-11-23 (even just the first stage)~~ will receive a "Certificate of Accomplishment" from EmptyCup regardless of selection for internship. Your github id will be added as a contributor to EmptyCup's open source project repository. You may also request your mentor for a referral.
 
 This assignment is purely for evaluation purposes and EmptyCup will not be using your code even for the open source projects without your explicit permission.
