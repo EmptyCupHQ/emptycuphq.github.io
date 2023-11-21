@@ -32,7 +32,7 @@ __If you can create a page that is an exact replica of this design, you can subm
 
 ~~If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new.~~ Due to limited mentorship bandwidth, mentorship will be provided only on very specific questions through the Slack channel. Please do not get blocked on the mentor to proceed. 
 
-_NOTE: Please DO NOT request edit access to the Figma file. Can you edit the question paper in your exam? You can 
+_NOTE: DO NOT request edit access to the Figma file. Can you edit the question paper in your exam? You can duplicate the file and edit it if you wish to play around with the design_
 
 ### 2. Shortlisting
 
@@ -140,6 +140,8 @@ Here is some general guidance on how to go about the assignment:
 3. Motivation is very expensive. Don't expect you'll have the same motivation tomorrow. Get started whenever you are motivated and make it easy for yourself to get back to work. Don't push yourself to burnout, leave some gas in the tank everyday, so that you feel like coming back the next. Read more about [staying motivated](/academy/motivation).
 
 Follow [EmptyCup's linkedin page](https://in.linkedin.com/company/emptycup) for knowing more about the company, our culture and our work. 
+
+__If you have any questions or queries, please ask on the Slack channel__.
 
 
 ### Certification
