@@ -17,8 +17,7 @@ for the [EmptyCup Internship](/academy/internship/) starting January 2024.
 
 You can find the [exact design spec here](https://www.figma.com/file/20X8K2LQCic6q0rymE6eAb/Portfolio?type=design&node-id=0%3A1&mode=design&t=EetjKRzW11jt8xqf-1). You can hide all the comments using the keyboard shortcut __Shift + C__.
 
-The page lists all the designers who are active on EmptyCup's platform. Any homeonwers interested in finding a designer who they
-can collaborate with can come to this listings page where they can see all our users who are available for business.
+The page lists all the designers who are active on EmptyCup's platform. Any homeonwers interested in finding a designer who they can collaborate with can come to this listings page where they can see all our users who are available for business.
 
 
 ### 1. Web page + Styling
@@ -31,7 +30,9 @@ This demonstrates your ability to work with HTML & CSS code. When it comes to wr
 
 __If you can create a page that is an exact replica of this design, you can submit your assignment, even if you don't have the rest of the functionality implemented.__
 
-_If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new._
+~~If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new.~~ Due to limited mentorship bandwidth, mentorship will be provided only on very specific questions through the Slack channel. Please do not get blocked on the mentor to proceed. 
+
+_NOTE: Please DO NOT request edit access to the Figma file. Can you edit the question paper in your exam? You can 
 
 ### 2. Shortlisting
 
@@ -51,59 +52,90 @@ __If you can implement this, it shows that you have full stack capabilities. A f
 
 _If you don't have experience with backend development, you can ask your mentor for useful references to learn how to build a REST API backend in python._
 
-### 4. Public cloud deploy
+### 4. Deployment
 
+There are 2 modules in deployment:
 
-Once you have both the frontend and backend ready, you should figure out how to deploy them publicly. Frontend code is static and can be deployed by a service like Netlify. Deploying on netlify will not be very complex. You can even have simple link between your Github repository and Netlify, so that whenever you push your code changes to Github, Netlify automatically deploys the latest code.
+1. Local deployment for development
+2. Public cloud deployment for demo
 
-Deploying backend code is a little more complex. Depending on the cloud and the backend technology you use there are multiple options. At this point, probably the easiest would be to get a cloud vm and run the API server there. Deploying to AWS Lambda or Azure Functions should also be possible.
+For local deployment, you should use Docker. If you are not aware of Docker, you can find a lot of simple tutorials to setup docker locally. You will have to create containers for all the services that you need to run your app properly including the DB. Ideally, a local dev deployment should work without an internet connection. Once you create the containers, you should be able to orchestrate those containers using `docker-compose`. Ideally, it should be possible for someone to just pull your repo and deploy locally without any instructions from you. Make use of the _README.md_ file.
+
+Once you have the build working locally on docker, you should figure out how to deploy publicly. Frontend code is static and can be deployed by a service like Netlify. Deploying on netlify will not be very complex. You can even have simple link between your Github repository and Netlify, so that whenever you push your code changes to Github, Netlify automatically deploys the latest code. Deploying backend code is a little more complex. Depending on the cloud and the backend technology you use there are multiple options. At this point, probably the easiest would be to get a cloud vm and run the API server there. Deploying to AWS Lambda or Azure Functions should also be possible. You can also deploy the docker containers directly.
 
 __If you can deploy publicly, it shows that you have a good understanding of devops as well. Most beginners neglect devops thinking code is the important part. But devops is as important as programming and is the gateway to bring your programming skills into the real world.__
 
-_Deployment needs a good understanding of basics of computer science like OS and networking. If you miss something crucial, it can become frustrating easily. You should speak to your mentor and discuss your deployment plan before._
+_Deployment needs a good understanding of basics of computer science like OS and networking. If you miss something crucial, it can become frustrating easily. You get stuck you can ask for help on the Slack community channel_
 
 
-### Evaluation
+### Submission
 
 The deadline for assignment is: __6.00 AM on December 1st__
 
-DO NOT wait for the deadline as the assignment can be submitted again and again. Only the final version will be considered for evaluation. Besides, as soon as your first stage is complete, you will be assigned a mentor who will help and guide you. Your mentor's recommendation will give you a big advantage in final evaluation. So, submit as early as possible and as soon as you finish the basic web page layout and styling.
-
 To submit the assignment, you need to submit 2 files: 
 
-1. A zip file containing all your code with the name "Your Name.zip". Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code.
-2. A screen recording demo of your work in action.  
+1. A zip file containing all your code with the name "Your Name.zip". Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code. The zip file with your code has to be named in the format "Your Name.zip". DO NOT add further any extra words like Final or ' -2' etc. There is an automated system that picks up your assignment and categorizes it for evaluation. So please follow the instructions precisely.
 
-You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the subject __EmptyCup Assignment 2023 - Your Name__
+2. A screen recording demo of your work in action. This demo file has to be named in the format "Your Name.mp4" (or whatever file extension) Please do not put the recording file inside the zip. The demo should show the live demo clearly showcasing all the functionality. You need not explain the code in the demo video.
 
-_NOTE_: 
+You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the subject __EmptyCup Assignment 2023 - Your Name__. 
 
-1. The zip file with your code has to be named in the format "Your Name.zip"
-2. The demo file with your screen recording has to be named in the format "Your Name.mp4" (or whatever file extension)
+_Sometimes, college email addresses get blocked when sending large files outside the organisation. Hence, it is recommended that you submit with your gmail account. In the email, please mention your college name._
 
-_Please do not put the recording file inside the zip._
+_If there is a problem attaching the files to your email, you can use Google drive to upload and share the assignment code & demo video_
 
-_If your file size is large, gmail may not allow you attach the file directly. In that case please upload the file onto google drive and share the link. Gmail may offer to do this automatically._
-
-_Sometimes, college email addresses get blocked when sending large files outside the organisation. Hence, it is recommended that you submit with your gmail account._
-
-_If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
+_The assignment can be submitted multiple times. Only the final submission will be considered for evaluation. So, DO NOT wait till the deadline to submit your assignment. If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
 
 
-You only need to finish the first stage (web page with styling) to be considered for the internship position. But, the more you are able to accomplish, the better your chances will be. Besides, these are very useful skills that can help you level up your profile. So, you should see this not just as a test, but a learning opportunity. Our mentors will be available through out to help and guide you.
-
-Unlike a typical interview or test, you are encouraged to Google as much as you can and learn while doing the assignment. You'll remember whatever you learn to finish this assignment much better than anything you learnt from your textbooks for your exams. 
-
-__We request you to please keep your repository private on Github. If you need, you can grant private access to your mentor. If we detect plagiarism, everyone involved may be disqualified.__
+_We request you to please keep your repository private on Github. You can grant private access to your mentor, if and when they ask. If we detect plagiarism, everyone involved may be disqualified._
 
 _CAUTION: We strongly advise that you don't waste your time and our time by copying or duplicating code from someone or somewhere else. There will be a detailed code review at the end where a mentor will walk through your entire codebase. We are atleast as smart as you and we will know. Even if we don't, you won't be able to maintain that image for more than a week when you start your internship as the work will be intense and you won't be able to copy or get outside help. We will take strong action if we find out you misrepresented your work._
 
 
+### Evaluation
+
+You only need to finish the first stage to be considered for evaluation. But, it is highly recommended that you complete as many stages as you can. After the deadline, your work will be evaluated based on the following criteria:
+
+__Correctness__: Whatever little you implement should work flawlessly. In the real world, you don't get 80% marks for 80% correct, you get 0%. If it doesn't work, it doesn't work.
+
+__Completeness__: If you complete the whole assignment with the frontend, backend and deployment, you will have an advantage over someone who submits a partial implementation. This just shows hard work.
+
+__Code quality__: Good quality code is clean, well organized, readable, concise and simple. Writing simple code is much harder than writing complex code. It shows your elegance in structuring your code. 
+
+Apart from the above technical criteria, we also evaluate your communication. Here are a few things taken into consideration. For eg:
+
+ 
+1. Do you think through before communication? It is important to have as much clarity as possible before you initiate a conversation. Otherwise, you will get that clarity in the conversation at the expense of the other person's time and attention.
+
+2. Is your communication itself clear? If you don't present your work clearly, the other person will have to spend their attention not on your code, but on understanding you. 
+
+2. Are you logical in your communication? If you take everything personally, it becomes hard to give feedback on your work so that it can be improved. Can you accept a flaw and focus on fixing or improving it rather than taking it personally and arguing about it?
+
+
+If you have finished the assignment and have time, energy & drive, there are a few things you can do to stand out:
+
+1. Implement new functionality. An excellent challenge would be implementing the gallery view. In the gallery view, each listing will also have a few images of their work uploaded by the designer. Each listing will have an instagram like image carousel above the listing details. For this you have to improvise the UI design yourself. This will also test your backend ability because you have to manage file uploads and asset storage in the cloud. Implementing this will show that you can take ownership of a feature which will be a huge plus in your evaluation.
+
+2. Implementing using our stack, especially Svelte for frontend. You need not use our stack to submit the assignment. But, choosing to learn our stack will show your ability to learn something fast and your drive to excel. Besides, if you join the company you'll have to master this stack anyways.
+
+3. Your own idea on how to improve the project with justification about why that is not just a minor polish to boost your ego.
+
+
 ### Mentorship
 
-1. A lot of students get inspired and start with high expectations. Then, as they face errors or roadblocks become demotivated and give up. Instead, you should start with the expectation that this work will not be easy. A reasonable expectation for someone who already knows web development well is to finish the entire assignment in 100 hours. So, grit your teeth and start with a prepared mindset.
+1. Mentorship will be provided based on your performance. If you're showing promise, we will help and guide you as much as we can. Mentorship is not a right. It is a privilege that needs to be earned. The irony is that if you google and try to figure out as much as you can, we will try to help you as much as we can. If you don't do everything you can to help yourself (starting by googling), we won't be interested in helping you.
 
-2. Interviews and tests involve a lot of parameters that are out of your control. There is a big hand of chance in the equation. The idea might not strike for you. You might get hit with an unexpected question. You might not be able to communicate properly. The interviewer might be in a bad mood or exhausted at the end of the day. We adopted an assignment model to make it possible for hard work, persistence and determination to shine through despite random chaos. Be persistent, don't give up and you'll have a good time.
+2. Don't get blocked on response from mentors just to proceed. The default state is Go. No one will come and give you permission to proceed. Just keep going. A mentor is not a coach who will drive you. You have to bring the drive yourself. A mentor will only help you if you get stuck and guide you if you're on the wrong path. But the initiative and the drive have to come from you. 
+
+3. The more specific your request is, the more likely you'll receive guidance. If you say: "I need help with backend deployment", mentors probably will not bother. You can figure that out on your own. But if you ask: "I implemented using Django and don't need 2 separate docker containers to deploy locally. Should I still separate frontend and backend?", the mentor will respond quickly.
+
+That said, if you get stuck or are not sure how to proceed, you can ask on Slack for help. We will try to address and help out as much as you can. We just don't want you to take mentorship for granted.
+
+Here is some general guidance on how to go about the assignment:
+
+1. A lot of students get inspired and start with high expectations. Then, as they face errors or roadblocks become demotivated and give up. Instead, you should start with the expectation that this work will not be easy. A reasonable expectation for someone who knows basic web development well is to finish the entire assignment in 100 hours. So, grit your teeth and start with a prepared mindset.
+
+2. Interviews and tests involve a lot of parameters that are out of your control. There is a big hand of chance in the equation. The idea might not strike you. You might get hit with an unexpected question. You might not be able to communicate properly. The interviewer might be in a bad mood or exhausted at the end of the day. We adopted an assignment model to make it possible for hard work, persistence and determination to shine through despite random chaos. Be persistent, don't give up and you'll have a good time.
 
 3. Motivation is very expensive. Don't expect you'll have the same motivation tomorrow. Get started whenever you are motivated and make it easy for yourself to get back to work. Don't push yourself to burnout, leave some gas in the tank everyday, so that you feel like coming back the next. Read more about [staying motivated](/academy/motivation).
 
@@ -112,6 +144,6 @@ Follow [EmptyCup's linkedin page](https://in.linkedin.com/company/emptycup) for 
 
 ### Certification
 
-Anyone who successfully submits the assignment (even just the first stage) will receive a "Certificate of Accomplishment" from EmptyCup regardless of selection for internship. Your github id will be added as a contributor to EmptyCup's open source project repository. You may also request your mentor for a referral.
+Anyone who successfully completes the assignment ~~(UPDATE: 21-11-23, even just the first stage)~~ will receive a "Certificate of Accomplishment" from EmptyCup regardless of selection for internship. Your github id will be added as a contributor to EmptyCup's open source project repository. You may also request your mentor for a referral.
 
 This assignment is purely for evaluation purposes and EmptyCup will not be using your code even for the open source projects without your explicit permission.
