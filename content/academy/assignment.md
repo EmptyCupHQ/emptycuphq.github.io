@@ -32,7 +32,7 @@ __If you can create a page that is an exact replica of this design, you can subm
 
 ~~If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new.~~ Due to limited mentorship bandwidth, mentorship will be provided only on very specific questions through the Slack channel. Please do not get blocked on the mentor to proceed. 
 
-_NOTE: DO NOT request edit access to the Figma file. Can you edit the question paper in your exam? You can duplicate the file and edit it if you wish to play around with the design_
+_NOTE: DO NOT request edit access to the Figma file. You can duplicate the file and edit it if you wish to play around with the design_
 
 ### 2. Shortlisting
 
@@ -70,11 +70,13 @@ _Deployment needs a good understanding of basics of computer science like OS and
 
 ### Submission
 
-The deadline for assignment is: __6.00 AM on December 1st__
+The deadline for assignment is: 6.00 AM on December 1st.
+
+_Due to conflicting timelines, a deadline extension has been granted for a few colleges. Please refer to the notice from your placement team for the actual deadline. The evaluation happens on a rolling basis. So, if you finish and submit early you, you will have a definite advantage._
 
 To submit the assignment, you need to submit 2 files: 
 
-1. A zip file containing all your code with the name "Your Name.zip". Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code. The zip file with your code has to be named in the format "Your Name.zip". DO NOT add further any extra words like Final or ' -2' etc. There is an automated system that picks up your assignment and categorizes it for evaluation. So please follow the instructions precisely.
+1. A zip file containing all your code with the name "Your Name.zip". The zip file should yield a "Your Name" folder containing all the code. Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code. The zip file with your code has to be named in the format "Your Name.zip". DO NOT add further any extra words like Final or ' -2' etc. There is an automated system that picks up your assignment and categorizes it for evaluation. So please follow the instructions precisely.
 
 2. A screen recording demo of your work in action. This demo file has to be named in the format "Your Name.mp4" (or whatever file extension) Please do not put the recording file inside the zip. The demo should show the live demo clearly showcasing all the functionality. You need not explain the code in the demo video.
 
@@ -82,10 +84,9 @@ You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the 
 
 _Sometimes, college email addresses get blocked when sending large files outside the organisation. Hence, it is recommended that you submit with your gmail account. In the email, please mention your college name._
 
-_If there is a problem attaching the files to your email, you can use Google drive to upload and share the assignment code & demo video_
+_If there is a problem attaching the files to your email, you can use Google drive to upload and share the assignment code & demo video. The filename guidelines should still be followed._
 
 _The assignment can be submitted multiple times. Only the final submission will be considered for evaluation. So, DO NOT wait till the deadline to submit your assignment. If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
-
 
 _We request you to please keep your repository private on Github. You can grant private access to your mentor, if and when they ask. If we detect plagiarism, everyone involved may be disqualified._
 
@@ -129,7 +130,7 @@ If you have finished the assignment and have time, energy & drive, there are a f
 
 3. The more specific your request is, the more likely you'll receive guidance. If you say: "I need help with backend deployment", mentors probably will not bother. You can figure that out on your own. But if you ask: "I implemented using Django and don't need 2 separate docker containers to deploy locally. Should I still separate frontend and backend?", the mentor will respond quickly.
 
-That said, if you get stuck or are not sure how to proceed, you can ask on Slack for help. We will try to address and help out as much as you can. We just don't want you to take mentorship for granted.
+That said, if you get stuck or are not sure how to proceed, you can ask on Slack for help. We will try to address and help out as much as we can. We just don't want you to take mentorship for granted.
 
 Here is some general guidance on how to go about the assignment:
 
