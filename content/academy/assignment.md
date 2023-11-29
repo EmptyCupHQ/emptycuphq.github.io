@@ -28,7 +28,7 @@ Styling matters a lot. EmptyCup's users are designers and have a very sensitive 
 
 This demonstrates your ability to work with HTML & CSS code. When it comes to writing software for production environment, HTML CSS fluency is paramount. You probably used websites before where some buttons are not visible or the content layout is screwed up. That was because the person who wrote the HTML didn't get it right. So, this is the most basic test.
 
-__If you can create a page that is an exact replica of this design, you can submit your assignment, even if you don't have the rest of the functionality implemented.__
+~~If you can create a page that is an exact replica of this design, you can submit your assignment, even if you don't have the rest of the functionality implemented.~~ _UPDATE: We have revised our guidelines. We now recommend that you submit your assignment once you finish the work. If you have any questions or doubts, you can join the slack community and get them clarified on the #general channel._
 
 ~~If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new.~~ Due to limited mentorship bandwidth, mentorship will be provided only on very specific questions through the Slack channel. Please do not get blocked on the mentor to proceed. 
 
@@ -86,7 +86,9 @@ _Sometimes, college email addresses get blocked when sending large files outside
 
 _If there is a problem attaching the files to your email, you can use Google drive to upload and share the assignment code & demo video. The filename guidelines should still be followed._
 
-_The assignment can be submitted multiple times. Only the final submission will be considered for evaluation. So, DO NOT wait till the deadline to submit your assignment. If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
+_~~The assignment can be submitted multiple times. Only the final submission will be considered for evaluation. So, DO NOT wait till the deadline to submit your assignment.~~ UPDATE: We have updated our guidelines and now require you to submit your work only after you finish._
+
+_Multiple submissions may be allowed rarely at the discretion of the mentors. If you are submitting the assignment for the second time. Please reply on your exisiting email thread. DO NOT create new email threads for each submission._
 
 _We request you to please keep your repository private on Github. You can grant private access to your mentor, if and when they ask. If we detect plagiarism, everyone involved may be disqualified._
 
