@@ -87,7 +87,7 @@ _The assignment can be submitted multiple times. Only the final submission will 
 
 _We request you to please keep your repository private on Github. You can grant private access to your mentor, if and when they ask. If we detect plagiarism, everyone involved may be disqualified._
 
-_CAUTION: We strongly advise that you don't waste your time and our time by copying or duplicating code from someone or somewhere else. There will be a detailed code review at the end where a mentor will walk through your entire codebase. We are atleast as smart as you and we will know. Even if we don't, you won't be able to maintain that image for more than a week when you start your internship as the work will be intense and you won't be able to copy or get outside help. We will take strong action if we find out you misrepresented your work._
+_CAUTION: We strongly advise that you don't waste your time and our time by copying or duplicating code from someone or somewhere else. There will be a detailed code review at the end where a mentor will walk through your entire codebase. Even if we don't, you won't be able to maintain that image for more than a week when you start your internship as the work will be intense and you won't be able to copy or get outside help. We will take strong action if we find out you misrepresented your work._
 
 
 ### Evaluation
@@ -108,15 +108,6 @@ Apart from the above technical criteria, we also evaluate your communication dur
 2. Is your communication itself clear? If you don't present your work clearly, the other person will have to spend their attention not on your code, but on understanding you. 
 
 2. Are you logical in your communication? If you take everything personally, it becomes hard to give feedback on your work so that it can be improved. Can you accept a flaw and focus on fixing or improving it rather than taking it personally and arguing about it?
-
-
-If you have finished the assignment and have time, energy & drive, there are a few things you can do to stand out:
-
-1. Implement new functionality. An excellent challenge would be implementing the gallery view. In the gallery view, each listing will also have a few images of their work uploaded by the designer. Each listing will have an instagram like image carousel above the listing details. For this you have to improvise the UI design yourself. This will also test your backend ability because you have to manage file uploads and asset storage in the cloud. Implementing this will show that you can take ownership of a feature which will be a huge plus in your evaluation.
-
-2. Implementing using our stack, especially Svelte for frontend. You need not use our stack to submit the assignment. But, choosing to learn our stack will show your ability to learn something fast and your drive to excel. Besides, if you join the company you'll have to master this stack anyways.
-
-3. Your own idea on how to improve the project with justification about why that is not just a minor polish to boost your ego.
 
 
 ### Mentorship
