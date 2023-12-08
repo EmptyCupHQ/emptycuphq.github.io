@@ -26,11 +26,8 @@ Your objective is to create a single mobile web page that looks exactly like the
 
 Styling matters a lot. EmptyCup's users are designers and have a very sensitive taste. They will ditch the product and worse, lose respect for EmptyCup & it's products, if the styling is off. So, the first requirement is that the page you create should look exactly like the figma design. You can use the same fonts and icons as in the Figma file by downloading the icons from Figma itself. 
 
-This demonstrates your ability to work with HTML & CSS code. When it comes to writing software for production environment, HTML CSS fluency is paramount. You probably used websites before where some buttons are not visible or the content layout is screwed up. That was because the person who wrote the HTML didn't get it right. So, this is the most basic test.
+__This demonstrates your ability to work with HTML & CSS code. When it comes to writing software for production environment, HTML CSS fluency is paramount. You probably used websites before where some buttons are not visible or the content layout is screwed up. That was because the person who wrote the HTML didn't get it right. So, this is the most basic test.__
 
-__If you can create a page that is an exact replica of this design, you can submit your assignment, even if you don't have the rest of the functionality implemented.__
-
-~~If you finish this successfully on your own and submit, a mentor will get in touch with you to guide you and share useful learning resources if you need to learn something new.~~ Due to limited mentorship bandwidth, mentorship will be provided only on very specific questions through the Slack channel. Please do not get blocked on the mentor to proceed. 
 
 _NOTE: DO NOT request edit access to the Figma file. You can duplicate the file and edit it if you wish to play around with the design_
 
@@ -65,22 +62,22 @@ Once you have the build working locally on docker, you should figure out how to 
 
 __If you can deploy publicly, it shows that you have a good understanding of devops as well. Most beginners neglect devops thinking code is the important part. But devops is as important as programming and is the gateway to bring your programming skills into the real world.__
 
-_Deployment needs a good understanding of basics of computer science like OS and networking. If you miss something crucial, it can become frustrating easily. You get stuck you can ask for help on the Slack community channel_
+_Deployment needs a good understanding of basics of computer science like OS and networking. If you miss something crucial, it can become frustrating easily. If you get stuck, you can ask for help on the Slack community channel_
 
 
 ### Submission
 
-The deadline for assignment is: 6.00 AM on December 1st.
+~~The deadline for assignment is: 6.00 AM on December 1st.~~
 
 _Due to conflicting timelines, a deadline extension has been granted for a few colleges. Please refer to the notice from your placement team for the actual deadline. The evaluation happens on a rolling basis. So, if you finish and submit early you, you will have a definite advantage._
 
 To submit the assignment, you need to submit 2 files: 
 
-1. A zip file containing all your code with the name "Your Name.zip". The zip file should yield a "Your Name" folder containing all the code. Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code. The zip file with your code has to be named in the format "Your Name.zip". DO NOT add further any extra words like Final or ' -2' etc. There is an automated system that picks up your assignment and categorizes it for evaluation. So please follow the instructions precisely.
+1. A zip file containing all your code with the name "Your Name.zip". The zip file should yield a "Your Name" folder containing all the code when it is unzipped. Please make sure your codebase contains a _README.md_ in the root folder which gives step by step instructions to run and preview your code. The zip file with your code has to be named in the format "Your Name.zip". DO NOT add further any extra words like Final or ' -2' etc. There is an automated system that picks up your assignment and categorizes it for evaluation. So please follow the instructions precisely.
 
-2. A screen recording demo of your work in action. This demo file has to be named in the format "Your Name.mp4" (or whatever file extension) Please do not put the recording file inside the zip. The demo should show the live demo clearly showcasing all the functionality. You need not explain the code in the demo video.
+2. A screen recording demo of your work in action. The video should show the demo of the webpage including the shortlisting functionality (~1min). It should then show your database schema (~1min). After that it should show the hierarchy of all files in your source code folder(~1min). It should show the backend code for your API routes(~1min). It should show the UI components (~1min). You should explain each module with a voice over. You can use [Loom for screen recording](https://www.loom.com/) or any other software you're comfortable with.
 
-You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the subject __EmptyCup Assignment 2023 - Your Name__. 
+You can submit the 2 files by emailing them to __tryouts@emptycup.in__ with the subject __EmptyCup Assignment 2023 - Your Name__. Based on your submission, you will be shortlisted for an online code review. This will be a online video call where we'll walk through your code line by line and discuss it with you as we would when merging your code into production.
 
 _Sometimes, college email addresses get blocked when sending large files outside the organisation. Hence, it is recommended that you submit with your gmail account. In the email, please mention your college name._
 
@@ -95,7 +92,7 @@ _CAUTION: We strongly advise that you don't waste your time and our time by copy
 
 ### Evaluation
 
-You only need to finish the first stage to be considered for evaluation. But, it is highly recommended that you complete as many stages as you can. After the deadline, your work will be evaluated based on the following criteria:
+Once you submit, your work will be evaluated based on the following criteria:
 
 __Correctness__: Whatever little you implement should work flawlessly. In the real world, you don't get 80% marks for 80% correct, you get 0%. If it doesn't work, it doesn't work.
 
@@ -103,7 +100,7 @@ __Completeness__: If you complete the whole assignment with the frontend, backen
 
 __Code quality__: Good quality code is clean, well organized, readable, concise and simple. Writing simple code is much harder than writing complex code. It shows your elegance in structuring your code. 
 
-Apart from the above technical criteria, we also evaluate your communication. Here are a few things taken into consideration. For eg:
+Apart from the above technical criteria, we also evaluate your communication during the code review. Here are a few things taken into consideration. For eg:
 
  
 1. Do you think through before communication? It is important to have as much clarity as possible before you initiate a conversation. Otherwise, you will get that clarity in the conversation at the expense of the other person's time and attention.
@@ -123,6 +120,8 @@ If you have finished the assignment and have time, energy & drive, there are a f
 
 
 ### Mentorship
+
+[Join the EmptyCup slack community for any questions or doubts regarding the assignment.](https://join.slack.com/t/emptycupacademy/shared_invite/zt-256nm43bn-BNQb_UeEn3mI2QrnjMJ9GA)
 
 1. Mentorship will be provided based on your performance. If you're showing promise, we will help and guide you as much as we can. Mentorship is not a right. It is a privilege that needs to be earned. The irony is that if you google and try to figure out as much as you can, we will try to help you as much as we can. If you don't do everything you can to help yourself (starting by googling), we won't be interested in helping you.
 
